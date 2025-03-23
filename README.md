@@ -1,1 +1,3 @@
 # Weather-Forecasting
+# Machine Learning Model for Weather Forecasting
+This project leverages machine learning to predict temperature using algorithms like **Linear Regression**, **Decision Tree Regression**, and **Random Forest Regression**. It analyzes historical weather data  incorporating factors such as humidity, precipitation, pressure, and wind speed. The dataset, spanning over a decade, was sourced from Kaggle and split into training and testing sets. Among the models, **Random Forest Regression** outperformed others with the lowest error rate, showcasing its effectiveness in weather prediction. This work demonstrates the practical application of machine learning in enhancing weather forecasting systems.
